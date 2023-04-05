@@ -1,5 +1,6 @@
 # HX99G-Hackintosh
 
+参考说明指南：https://www.bilibili.com/read/cv22867777
 
 ![](https://github.com/Xmingbai/HX99G-Hackintosh/blob/main/00.png)
 ![](https://github.com/Xmingbai/HX99G-Hackintosh/blob/main/0.png)
