@@ -1,4 +1,4 @@
-# HX99G-Hackintosh
+# HX99G-Hackintosh  编辑中
 
 参考说明指南：https://www.bilibili.com/read/cv22867777
 
