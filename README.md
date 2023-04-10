@@ -1,6 +1,6 @@
-# HX99G-Hackintosh  编辑中
+# HX99G-Hackintosh  
 
-参考说明指南：https://www.bilibili.com/read/cv22867777
+参考说明指南：https://www.bilibili.com/read/cv22867777   下载引导看Releases
 
 ![](https://github.com/Xmingbai/HX99G-Hackintosh/blob/main/00.png)
 ![](https://github.com/Xmingbai/HX99G-Hackintosh/blob/main/0.png)
